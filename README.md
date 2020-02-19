@@ -1,1 +1,3 @@
-nanopi r1s r2s openwrt固件自动编译
+转移到
+
+https://github.com/klever1988/nanopi-openwrt
